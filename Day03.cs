@@ -1,5 +1,4 @@
 using System.Text.RegularExpressions;
-using FluentAssertions;
 
 namespace AdventOfCode2024;
 
@@ -80,6 +79,6 @@ public class Day03Tests
     {
         var input = Helper.ReadDay(03);
 
-        new Day03Part2().Solve(input).Should().Be(0L);
+        new Day03Part2().Solve(input).Should().Be(90669332L);
     }
 }

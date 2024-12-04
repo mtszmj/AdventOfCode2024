@@ -1,5 +1,3 @@
-using FluentAssertions;
-
 namespace AdventOfCode2024;
 
 public class Day02Part1

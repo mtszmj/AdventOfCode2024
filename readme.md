@@ -7,7 +7,7 @@
 | :heavy_check_mark: | [Puzzle 01](https://adventofcode.com/2024/day/1)  | [Day 01](Day01.cs) |
 | :heavy_check_mark: | [Puzzle 02](https://adventofcode.com/2024/day/2)  | [Day 02](Day02.cs) |
 | :heavy_check_mark: | [Puzzle 03](https://adventofcode.com/2024/day/3)  | [Day 03](Day03.cs) |
-|                    | [Puzzle 04](https://adventofcode.com/2024/day/4)  | [Day 04](Day04.cs) |
+| :heavy_check_mark: | [Puzzle 04](https://adventofcode.com/2024/day/4)  | [Day 04](Day04.cs) |
 |                    | [Puzzle 05](https://adventofcode.com/2024/day/5)  | [Day 05](Day05.cs) |
 |                    | [Puzzle 06](https://adventofcode.com/2024/day/6)  | [Day 06](Day06.cs) |
 |                    | [Puzzle 07](https://adventofcode.com/2024/day/7)  | [Day 07](Day07.cs) |
